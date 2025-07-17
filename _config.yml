@@ -6,9 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yicheng
 middle_name: 
 last_name: Duan
-contact_note: 
-  Email me if you are interested in my work, or if you have any questions or suggestions.
-  I am always happy to hear from you!
+contact_note: >
+  Email me if you are interested in my work, or if you have any questions or suggestions. I am always happy to hear from you!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to the personal website of Yicheng Duan. Here I share my work, projects, and interests in LLM, Applied Sciences, Robotics, and Embodied AI.
 footer_text: >
