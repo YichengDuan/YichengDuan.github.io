@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "news-everything-starts-here-stay-tuned-for-the-latest-updates-and-announcements",
           title: 'Everything starts here. Stay tuned for the latest updates and announcements. 🦾',
           description: "",
