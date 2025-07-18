@@ -25,8 +25,10 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I’m Yicheng Duan, currently pursuing my MS in Computer Science at [Case Western Reserve University](https://case.edu/), advised by [Dr. Yu Yin](https://yin-yu.github.io/). My research focuses on Embodied AI and Vision-Language-Action models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests center on building intelligent systems that can see, communicate, and act — especially humanoid agents capable of navigating, reasoning, and planning in complex environments. Recently, my work has focused on robotics data unification, action representation, and benchmarking.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, at [ZHIPU.AI](https://z.ai), I designed statistical and machine learning models, optimized large-scale data systems, contributed to the development of early-stage LLM agents, and improved backend performance.
+
+The journey is still unfolding, and I’m always eager to connect, collaborate, and learn along the way.
