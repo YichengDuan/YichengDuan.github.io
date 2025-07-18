@@ -27,7 +27,7 @@ announcements:
 
 Hi there! I’m Yicheng Duan (段毅成), currently pursuing my MS in Computer Science at [Case Western Reserve University](https://case.edu/), advised by [Dr. Yu Yin](https://yin-yu.github.io/). My research focuses on Embodied AI and Vision-Language-Action models.
 
-My research interests center on building intelligent systems that can see, communicate, and act — especially humanoid agents capable of navigating, reasoning, and planning in complex environments. Recently, my work has focused on robotics data unification, action representation, and benchmarking.
+My research interests center on building intelligent systems that can see, communicate, and act — especially humanoid agents capable of navigating, reasoning, and planning in complex environments. > **Humanoid + world knowledge reasoning** Recently, my work has focused on robotics data unification, action representation, and benchmarking.
 
 Previously, as an algorithm engineer at [ZHIPU.AI](https://z.ai), I designed statistical and machine learning models, optimized large-scale data systems, contributed to the development of early-stage LLM agents, and enhanced backend performance.
 
