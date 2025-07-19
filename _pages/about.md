@@ -33,4 +33,6 @@ Previously, as an algorithm engineer at [ZHIPU.AI](https://z.ai), I designed sta
 
 One click [CV here](/assets/pdf/YichengDuan_CV.pdf){:target="_blank"}.
 
-The journey is still unfolding, and I’m always eager to connect, collaborate, and learn along the way. **"Making AI embodied, grounded, and real — together."**
+The journey is still unfolding, and I’m always eager to connect, collaborate, and learn along the way.
+
+**"Making AI embodied, grounded, and real — together."**
