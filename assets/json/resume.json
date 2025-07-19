@@ -126,7 +126,18 @@
         "FastAPI", 
         "Docker",
         "Grafana",
-        "RabbitMQ"
+        "RabbitMQ",
+        "API/REST",
+        "Django",
+        "GitHub",
+        "Agile",
+        "DevOps",
+        "Profiling",
+        "AWS",
+        "CV",
+        "LLM",
+        "VLM",
+        "RAG"
       ]
     },
     {
@@ -148,6 +159,24 @@
       "keywords": [
         "AWS", 
         "Alibaba Cloud"
+      ]
+    },
+    {
+      "name": "Workforce Skills",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Product management",
+        "Leadership",
+        "Teamwork",
+        "Communication",
+        "Problem solving",
+        "Time management",
+        "Adaptability",
+        "Critical thinking",
+        "Attention to detail",
+        "Creativity",
+        "Analytical skills",
+        "Self-motivation"
       ]
     }
 
