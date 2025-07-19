@@ -32,3 +32,5 @@ My research interests center on building intelligent systems that can see, commu
 Previously, as an algorithm engineer at [ZHIPU.AI](https://z.ai), I designed statistical and machine learning models, optimized large-scale data systems, contributed to the development of early-stage LLM agents, and enhanced backend performance.
 
 The journey is still unfolding, and I’m always eager to connect, collaborate, and learn along the way.
+
+One click [CV here](/assets/pdf/YichengDuan_CV.pdf).
