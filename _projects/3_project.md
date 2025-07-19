@@ -3,7 +3,7 @@ layout: page
 title: Low-Rank Adaptation Defense with Robustness
 description: A LoRA-based defense pipeline for a ResNet-18 model
 img: 
-importance: 3
+importance: 6
 category: Normal
 ---
 
