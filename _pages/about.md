@@ -29,7 +29,7 @@ Hi there! I’m Yicheng Duan (段毅成), currently pursuing my MS in Computer S
 
 My research interests center on building intelligent systems that can see, communicate, and act — especially humanoid agents capable of navigating, reasoning, and planning in complex environments, i.e. **"Humanoid + world knowledge reasoning"**. My research focuses on *Vision-Language-Action models* and *Embodied AI*. I also have experience in *machine learning*, *vision-language navigation*, *VLM*, and *LLM*. Recently, my work has focused on robotics data unification, action representation, and benchmarking.
 
-Previously, as an algorithm engineer at [ZHIPU.AI](https://z.ai), I designed statistical and machine learning models, optimized large-scale data systems, contributed to the development of early-stage LLM agents, and enhanced backend performance.
+Previously, as an algorithm engineer at [ZHIPU.AI](https://z.ai), I designed statistical and machine learning models, optimized large-scale data systems, contributed to the development of early-stage LLM agents, and enhanced backend performance. Inventor of 7+ patents.
 
 One click [CV here](/assets/pdf/YichengDuan_CV.pdf){:target="_blank"}.
 
