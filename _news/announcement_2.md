@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper on benchmarking in VLA has been submitted to ICLR 2026.
+A paper has been submitted to ICLR 2026.
