@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work NEBULA — a unified ecosystem for vision–language–action agent evaluation — is now open-sourced. Visit the project page and consider starring it: [NEBULA](https://vulab-ai.github.io/NEBULA-Alpha/).
+Our work NEBULA — a unified ecosystem for vision–language–action agent evaluation — is now open-sourced. Visit the project page—we'd love your star: [NEBULA](https://vulab-ai.github.io/NEBULA-Alpha/).
