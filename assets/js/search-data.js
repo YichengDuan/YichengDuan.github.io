@@ -50,7 +50,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-has-been-submitted-to-iclr-2026",
           title: 'A paper has been submitted to ICLR 2026.',
           description: "",
-          section: "News",},{id: "news-our-work-nebula-a-unified-ecosystem-for-vision-language-action-agent-evaluation-is-now-open-sourced-visit-the-project-page-and-consider-starring-it-nebula",
+          section: "News",},{id: "news-our-work-nebula-a-unified-ecosystem-for-vision-language-action-agent-evaluation-is-now-open-sourced-visit-the-project-page-we-d-love-your-star-nebula",
           title: 'Our work NEBULA — a unified ecosystem for vision–language–action agent evaluation — is...',
           description: "",
           section: "News",},{id: "projects-an-agentic-navigation-framework-utilizing-vision-language-models",
