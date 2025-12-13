@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSCS @ <a href='https://case.edu/'>Case Western Reserve University</a>.
+subtitle: MSCS @ <a href='https://case.edu/'>Case Western Reserve University</a>. One click [CV here](/assets/pdf/YichengDuan_CV.pdf){:target="_blank"}.
 
 profile:
   align: right
@@ -30,8 +30,6 @@ Hi there! I’m Yicheng Duan (段毅成), currently pursuing my MS in Computer S
 My research interests center on building intelligent systems that can see, communicate, and act — especially humanoid agents capable of navigating, reasoning, and planning in complex environments, i.e. **"Humanoid + world knowledge reasoning"**. My research focuses on *Vision-Language-Action models* and *Embodied AI*. Lately my work has centered on **efficient VLA, action representation, and benchmarking.** I also bring hands-on experience with machine learning, vision-language navigation, VLM, and LLM.
 
 Previously, as an algorithm engineer at [ZHIPU.AI](https://z.ai), I designed statistical and machine learning models, optimized large-scale data systems, contributed to the development of early-stage LLM agents, and enhanced backend performance. Inventor of 7+ patents.
-
-One click [CV here](/assets/pdf/YichengDuan_CV.pdf){:target="_blank"}.
 
 The journey is still unfolding, and I’m always eager to connect, collaborate, and learn along the way.
 
