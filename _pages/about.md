@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSCS @ <a href='https://case.edu/'>Case Western Reserve University</a>. One click [CV here](/assets/pdf/YichengDuan_CV.pdf){:target="_blank"}.
+subtitle: "MSCS @ <a href='https://case.edu/'>Case Western Reserve University</a>. One click <a href='/assets/pdf/YichengDuan_CV.pdf' target='_blank'>CV here</a>."
 
 profile:
   align: right
